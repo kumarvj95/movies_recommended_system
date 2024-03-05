@@ -1,1 +1,1 @@
-# movies_recommended_system
+•	Developed Python-based movie recommendation system with Cosine Similarity on 10,000 movies. Created user-friendly Streamlit web app for interactive top- five movie suggestions. Proficient in VS Code, Jupyter, Python libraries (NumPy, Pandas, Scikit Learn, NLTK), employing text preprocessing for effective machine learning.
